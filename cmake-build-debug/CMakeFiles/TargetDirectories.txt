@@ -1,0 +1,3 @@
+C:/Users/armin/CLionProjects/zadaca2/cmake-build-debug/CMakeFiles/zadaca2.dir
+C:/Users/armin/CLionProjects/zadaca2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/armin/CLionProjects/zadaca2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
